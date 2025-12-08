@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vgray_to_unary
+Z1 I2kWNmN1;^iZl:jJ^^[Al`2
+Z2 V=JH48BeJg3ie3ZUzi39?M2
+Z3 dC:\Users\korno\Desktop\FPGA_Projects\Answer\Chapter_3
+Z4 w1764776138
+Z5 8C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_3/gray_to_unary.v
+Z6 FC:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_3/gray_to_unary.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 h;I_RNQHL_PlP]XNjmgT@2
+!s85 0
+Z10 !s108 1764776295.645000
+Z11 !s107 C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_3/gray_to_unary.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_3/gray_to_unary.v|
+!s101 -O0
+vtb_gray_to_unary
+!i10b 1
+!s100 b[9TQPIbf@Z`KhX0_ffa21
+I[WI29MUZI22V^9@fOVQ=>0
+Vf5fz<<=8]YQQSY2:UcWCo3
+R3
+w1764776113
+8C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_3/gray_to_unary_tb.v
+FC:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_3/gray_to_unary_tb.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1764776295.711000
+!s107 C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_3/gray_to_unary_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_3/gray_to_unary_tb.v|
+!s101 -O0
+R8

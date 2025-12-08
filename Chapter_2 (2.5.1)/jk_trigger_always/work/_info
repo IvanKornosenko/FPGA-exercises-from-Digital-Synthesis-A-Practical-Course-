@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vjk_trigger
+Z1 ID:A6[_b89^^6eBoPW1cEd3
+Z2 V^1gH^kB@^biNHSiKOCM9@1
+Z3 dC:\Users\korno\Desktop\FPGA_Projects\Answer\Chapter_2 (2.5.1)\jk_trigger_always
+Z4 w1764081635
+Z5 8C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_2 (2.5.1)/jk_trigger_always/jk_trigger.v
+Z6 FC:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_2 (2.5.1)/jk_trigger_always/jk_trigger.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_2 (2.5.1)/jk_trigger_always/jk_trigger.v|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 aK1SH<R`NlfaARXUAPJVY0
+!s85 0
+Z11 !s108 1764081657.730000
+Z12 !s107 C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_2 (2.5.1)/jk_trigger_always/jk_trigger.v|
+!s101 -O0
+vjk_trigger_tb
+!i10b 1
+!s100 @7gn0PgB6^BmI;@eeS0QJ3
+IFT<2YH9Jlk4A^=IEUemD40
+Z13 Vi[m22I3^`gSN`U:B<BV7b2
+R3
+w1764081610
+Z14 8C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_2 (2.5.1)/jk_trigger_always/jk_trigger_tb.v
+Z15 FC:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_2 (2.5.1)/jk_trigger_always/jk_trigger_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1764081657.778000
+!s107 C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_2 (2.5.1)/jk_trigger_always/jk_trigger_tb.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_2 (2.5.1)/jk_trigger_always/jk_trigger_tb.v|
+!s101 -O0
+R9

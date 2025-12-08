@@ -1,0 +1,15 @@
+C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_3/gray_to_unary.v {1 {vlog -work work C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_3/gray_to_unary.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module gray_to_unary
+
+Top level modules:
+	gray_to_unary
+
+} {} {}} C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_3/gray_to_unary_tb.v {1 {vlog -work work C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_3/gray_to_unary_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_gray_to_unary
+
+Top level modules:
+	tb_gray_to_unary
+
+} {} {}}

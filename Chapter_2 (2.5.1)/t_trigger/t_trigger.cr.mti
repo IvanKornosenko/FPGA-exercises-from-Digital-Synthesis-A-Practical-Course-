@@ -1,0 +1,22 @@
+{C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_2 (2.5.1)/t_trigger/t_trigger.v} {1 {vlog -work work {C:\Users\korno\Desktop\FPGA_Projects\Answer\Chapter_2 (2.5.1)\t_trigger\t_trigger.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module t_trigger
+
+Top level modules:
+	t_trigger
+
+} {} {}} {C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_2 (2.5.1)/t_trigger/t_trigger_tb.v} {1 {vlog -work work {C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_2 (2.5.1)/t_trigger/t_trigger_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module t_trigger_tb
+
+Top level modules:
+	t_trigger_tb
+
+} {} {}} {C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_2 (2.5.1)/jk_trigger_always/jk_trigger.v} {1 {vlog -work work {C:/Users/korno/Desktop/FPGA_Projects/Answer/Chapter_2 (2.5.1)/jk_trigger_always/jk_trigger.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module jk_trigger
+
+Top level modules:
+	jk_trigger
+
+} {} {}}
